@@ -1,5 +1,8 @@
 # House Prices Prediction
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+
 This project predicts the sale price of residential houses using machine learning techniques, based on the Kaggle House Prices: Advanced Regression Techniques dataset.
 
 ## Project Objective
